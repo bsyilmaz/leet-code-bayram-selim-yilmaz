@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Bu repository, LeetCode platformunda çözdüğüm soruların çözümlerini içermektedir.
+Bu repo, LeetCode platformunda çözdüğüm soruların çözümlerini içermektedir.
 
 ## Klasör Yapısı
 
